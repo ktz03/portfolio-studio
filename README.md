@@ -10,3 +10,8 @@ Sanity Studio for portfolio management.
 npm install
 npm run dev
 ```
+
+## Deploy
+Auto-deployed via Vercel.
+
+Last updated: 2025-12-10
